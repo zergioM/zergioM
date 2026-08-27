@@ -6,10 +6,6 @@
   Building REST APIs and Java EE systems, one project at a time, learning along the way.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zergioM/zergioM/main/assets/monochair.gif" width="400" />
-</p>
-
 ---
 
 ###  About me
@@ -80,5 +76,9 @@ Returns stock by store and product, including `nombreLocal`, `nombreProducto`, `
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zergioM&layout=compact&theme=default" /> </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zergioM/zergioM/main/assets/monochair.gif" width="400" />
+</p>
 
 <p align="center"><em>Thanks for visiting my profile 🚀</em></p>
