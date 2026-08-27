@@ -73,9 +73,7 @@ Returns stock by store and product, including `nombreLocal`, `nombreProducto`, `
 
 ### 📊 Most used languages
 
-<p align="center">
-  (https://raw.githubusercontent.com/zergioM/github-stats-transparent/output/generated/languages.svg)
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zergioM&layout=compact&theme=default" /> </p>
 
 ---
 
