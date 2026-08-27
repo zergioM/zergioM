@@ -6,6 +6,10 @@
   Building REST APIs and Java EE systems, one project at a time, learning along the way.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zergioM/zergioM/main/assets/monochair.gif" width="400" />
+</p>
+
 ---
 
 ###  About me
