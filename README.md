@@ -1,93 +1,82 @@
-<h1 align="center">Hola, soy Sergio Martínez Henao 👋</h1>
+<h1 align="center">Hey, I'm Sergio Martinez Henao 👋</h1>
 
-<h3 align="center">Estudiante de Análisis y Desarrollo de Software | Java · JavaScript · Node.js · SQL</h3>
+<h3 align="center">Software Analysis and Development Student | Java · JavaScript · Node.js · SQL</h3>
 
 <p align="center">
-  Construyendo APIs REST y sistemas Java EE, uno por uno, aprendiendo en el camino.
+  Building REST APIs and Java EE systems, one project at a time, learning along the way.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About me
 
-- 🎓 Actualmente cursando **Tecnología en Análisis y Desarrollo de Software** en el SENA 
-- 💻 Trabajo con **Java EE** (Servlets, JPA/Hibernate) y **Node.js/Express** para construir aplicaciones y APIs REST completas
-- 🏗️ Me gusta la arquitectura de software: separar responsabilidades en capas (modelo, persistencia, controlador) y mantener el código organizado y escalable
-- 🔄 Antes de dedicarme al desarrollo, trabajé en logística — de ahí viene mi gusto por la organización y los procesos bien estructurados
-- 🌱 Aprendiendo constantemente, apoyándome también en herramientas de IA como parte de mi flujo de trabajo
-- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/sergio-martinezh) · smartinezhenaos@gmail.com
+- 🎓 Currently studying **Software Analysis and Development (Technologist)** at SENA 
+- 💻 I work with **Java EE** (Servlets, JPA/Hibernate) and **Node.js/Express** to build complete applications and REST APIs
+- 🏗️ I like software architecture: separating responsibilities into layers (model, persistence, controller) and keeping code organized and scalable
+- 🔄 Before moving into development, I worked in logistics — that's where my focus on organization and well-structured processes comes from
+- 🌱 Constantly learning, also relying on AI tools as part of my workflow
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sergio-martinezh) · smartinezhenaos@gmail.com
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,mysql,html,css,git,github," />
 </p>
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Featured project
 
-#### 🏔️ Jaguar Peak — API REST de Gestión de Retail
+#### 🏔️ Jaguar Peak — Retail Management REST API
 
-Sistema de gestión de retail para una cadena de locales, construido como API REST completa con **Node.js, Express y Sequelize**, sobre MySQL/MariaDB. Administra locales, clientes, productos, trabajadores e inventario, con autenticación y control de acceso por roles.
+Retail management system for a chain of stores, built as a complete REST API with **Node.js, Express, and Sequelize**, on top of MySQL/MariaDB. Manages stores, customers, products, employees, and inventory, with authentication and role-based access control.
 
-**🔗 Repositorio:** [github.com/zergioM/JAGUAR-PEAK-API](https://github.com/zergioM/JAGUAR-PEAK-API)
+**🔗 Repository:** [github.com/zergioM/JAGUAR-PEAK-API](https://github.com/zergioM/JAGUAR-PEAK-API)
 
-#### Stack técnico
+#### Tech stack
 `Express 5` · `Sequelize 6` · `MySQL / MariaDB` · `JWT` · `bcryptjs` · `express-validator` · `helmet` · `cors` · `express-rate-limit` · `morgan`
 
-#### Arquitectura en capas
-El proyecto sigue una arquitectura **Controller → Service → Repository → Model**, con una separación estricta de responsabilidades:
+#### Layered architecture
+The project follows a **Controller → Service → Repository → Model** architecture, with strict separation of concerns:
 
 ```
 src/
-├─ routes/         → define los endpoints y aplica middlewares
-├─ controllers/     → recibe la petición y arma la respuesta (req/res)
-├─ services/         → contiene la lógica de negocio
-├─ repositories/     → única capa que interactúa con los modelos
-├─ models/           → entidades Sequelize y relaciones
-├─ middlewares/       → autenticación JWT, roles, validación de campos
-├─ validators/        → reglas de validación con express-validator
-├─ utils/             → helpers de respuesta, JWT y hashing
-└─ seeders/           → creación automática del usuario administrador
+├─ routes/         → defines endpoints and applies middlewares
+├─ controllers/     → handles the request and builds the response (req/res)
+├─ services/         → contains the business logic
+├─ repositories/     → the only layer that interacts with the models
+├─ models/           → Sequelize entities and relationships
+├─ middlewares/       → JWT authentication, roles, field validation
+├─ validators/        → validation rules with express-validator
+├─ utils/             → response, JWT, and hashing helpers
+└─ seeders/           → automatic creation of the admin user
 ```
 
-#### Funcionalidades principales
-- **Autenticación JWT** — login y registro de usuarios, token enviado por header (`Authorization: Bearer <token>`)
-- **Control de acceso por roles** — endpoints de creación, edición y eliminación restringidos a rol `admin`; consulta disponible para cualquier usuario autenticado
-- **5 módulos completos con CRUD**: Locales, Clientes, Productos, Trabajadores (asociados a un Local) e Inventario
-- **Alertas de inventario** — cada registro de inventario calcula automáticamente si el stock está bajo (`stock <= stockMinimo`) y lo marca en la respuesta
-- **Seguridad de la API** — `helmet` para cabeceras HTTP seguras, `cors` configurado, `express-rate-limit` contra abuso de peticiones, contraseñas hasheadas con `bcryptjs`
-- **Validación de datos** — reglas de entrada por endpoint con `express-validator`, antes de llegar a la lógica de negocio
-- **Seeder automático** — al levantar el proyecto, crea un usuario administrador inicial a partir de variables de entorno
+#### Key features
+- **JWT authentication** — user login and registration, token sent via header (`Authorization: Bearer <token>`)
+- **Role-based access control** — create, update, and delete endpoints restricted to the `admin` role; read access available to any authenticated user
+- **5 complete CRUD modules**: Stores, Customers, Products, Employees (linked to a Store), and Inventory
+- **Inventory alerts** — every inventory record automatically flags low stock (`stock <= minStock`) in the response
+- **API security** — `helmet` for secure HTTP headers, configured `cors`, `express-rate-limit` against abuse, passwords hashed with `bcryptjs`
+- **Data validation** — per-endpoint input rules with `express-validator`, before reaching the business logic
+- **Automatic seeder** — on startup, creates an initial admin user from environment variables
 
-#### Ejemplo de endpoint
+#### Sample endpoint
 ```
 GET /api/inventarios
 ```
-Devuelve el stock por local y producto, incluyendo `nombreLocal`, `nombreProducto`, `marca`, `categoria` y una alerta `"STOCK BAJO"` cuando corresponde.
+Returns stock by store and product, including `nombreLocal`, `nombreProducto`, `marca`, `categoria`, and a `"STOCK BAJO"` (low stock) alert when applicable.
 
 ---
 
-### 📊 Lenguajes más usados
+### 📊 Most used languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zergioM&layout=compact&theme=default" />
+  (https://raw.githubusercontent.com/zergioM/github-stats-transparent/output/generated/languages.svg)
 </p>
 
 ---
 
-<p align="center"><em>Gracias por visitar mi perfil 🚀</em></p>
+<p align="center"><em>Thanks for visiting my profile 🚀</em></p>
