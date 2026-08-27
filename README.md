@@ -6,6 +6,10 @@
   Building REST APIs and Java EE systems, one project at a time, learning along the way.
 </p>
 
+<p align="center">
+  <img src="programmer-coding.gif" width="400" />
+</p>
+
 ---
 
 ### 🧑‍💻 About me
