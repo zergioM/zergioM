@@ -8,10 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zergioM/zergioM/main/Programmer-CodingMonkey.gif" width="400" />
-</p>
-
 ###  About me
 
 -  Currently studying **Software Analysis and Development (Technologist)** at SENA 
