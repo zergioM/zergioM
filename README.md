@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sergio Martinez Henao 👋</h1>
+<h1 align="center">Hey, I'm Sergio Martinez Henao </h1>
 
 <h3 align="center">Software Analysis and Development Student | Java · JavaScript · Node.js · SQL</h3>
 
@@ -12,18 +12,18 @@
 
 ---
 
-### 🧑‍💻 About me
+###  About me
 
-- 🎓 Currently studying **Software Analysis and Development (Technologist)** at SENA 
-- 💻 I work with **Java EE** (Servlets, JPA/Hibernate) and **Node.js/Express** to build complete applications and REST APIs
-- 🏗️ I like software architecture: separating responsibilities into layers (model, persistence, controller) and keeping code organized and scalable
-- 🔄 Before moving into development, I worked in logistics — that's where my focus on organization and well-structured processes comes from
-- 🌱 Constantly learning, also relying on AI tools as part of my workflow
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sergio-martinezh) · smartinezhenaos@gmail.com
+-  Currently studying **Software Analysis and Development (Technologist)** at SENA 
+-  I work with **Java EE** (Servlets, JPA/Hibernate) and **Node.js/Express** to build complete applications and REST APIs
+-  I like software architecture: separating responsibilities into layers (model, persistence, controller) and keeping code organized and scalable
+-  Before moving into development, I worked in logistics — that's where my focus on organization and well-structured processes comes from
+-  Constantly learning, also relying on AI tools as part of my workflow
+-  Reach me at: [LinkedIn](https://www.linkedin.com/in/sergio-martinezh) · smartinezhenaos@gmail.com
 
 ---
 
-### 🛠️ Technologies & tools
+###  Technologies & tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,mysql,html,css,git,github," />
@@ -31,9 +31,9 @@
 
 ---
 
-### 🚀 Featured project
+###  Featured project
 
-#### 🏔️ Jaguar Peak — Retail Management REST API
+####  Jaguar Peak — Retail Management REST API
 
 Retail management system for a chain of stores, built as a complete REST API with **Node.js, Express, and Sequelize**, on top of MySQL/MariaDB. Manages stores, customers, products, employees, and inventory, with authentication and role-based access control.
 
@@ -75,7 +75,7 @@ Returns stock by store and product, including `nombreLocal`, `nombreProducto`, `
 
 ---
 
-### 📊 Most used languages
+###  Most used languages
 
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zergioM&layout=compact&theme=default" /> </p>
 
