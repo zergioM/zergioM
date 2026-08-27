@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="Programmer-CodingMonkey.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/zergioM/zergioM/main/Programmer-CodingMonkey.gif" width="400" />
 </p>
 
 ---
